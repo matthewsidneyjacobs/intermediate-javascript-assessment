@@ -29,16 +29,16 @@
 var scopeArray1 = ["grandpa", "dad", "son", "uncle", "cousin"];
 
 // Which function(s) access the playball variable and get touchdown (Delete wrong answers, leave correct ones)
-var scopeArray2 = ["grandpa", "dad", "son", "uncle", "cousin"];
+var scopeArray2 = ["dad", "son"];
 
 // Which function(s) access the badjoke variable and get undefined (Delete wrong answers, leave correct ones)
-var scopeArray3 = ["grandpa", "dad", "son", "uncle", "cousin"];
+var scopeArray3 = ["grandpa", "dad", "son"];
 
 // Which functions accesss the badjoke variable and get "Har" (Delete wrong answers, leave correct ones)
-var scopeArray4 = ["grandpa", "dad", "son", "uncle", "cousin"];
+var scopeArray4 = ["uncle", "cousin"];
 
 // Which functions access the playnintendo variable and get Mario (Delete wrong answers, leave correct ones)
-var scopeArray5 = ["grandpa", "dad", "son", "uncle", "cousin"];
+var scopeArray5 = ["son"];
 
 
 // #2  ###################
